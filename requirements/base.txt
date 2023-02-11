@@ -8,7 +8,7 @@ dateutils==0.6.6
 django-ckeditor==4.4.6
 html2text==2014.12.5
 beautifulsoup4==4.3.2
-Pillow==2.6.0
+Pillow==9.3.0
 celery==3.1.17
 kombu==3.0.24
 billiard==3.3.0.19
