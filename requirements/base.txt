@@ -4,7 +4,7 @@ pytz==2013b
 psycopg2==2.5.1
 #django-money==0.4.1
 #git+https://github.com/duointeractive/paypal-python.git
-dateutils==0.6.6
+dateutils==0.6.12
 django-ckeditor==4.4.6
 html2text==2014.12.5
 beautifulsoup4==4.3.2
